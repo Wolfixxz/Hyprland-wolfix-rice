@@ -17,4 +17,4 @@
 **swaybg (wallpapers)**
 
 # Screenshots
-https://github.com/Wolfixxz/Hyprland-wolfix-rice/blob/main/screenshots/test.png
+screenshots/test.png
