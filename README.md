@@ -16,5 +16,4 @@
 
 **swaybg (wallpapers)**
 
-# Screenshots
-(screenshots/test.png)
+![Desktop Screenshot](screenshots/test.png)
