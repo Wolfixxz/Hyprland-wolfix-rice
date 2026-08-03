@@ -17,3 +17,6 @@
 **swaybg (wallpapers)**
 
 ![Desktop Screenshot](screenshots/test.png)
+![Desktop Screenshot](screenshots/test.png)
+![Desktop Screenshot](screenshots/test.png)
+![Desktop Screenshot](screenshots/test.png)
