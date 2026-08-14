@@ -4,7 +4,8 @@
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 # Requirements.
-## A screenshot tool (optional) (i recommend swappy) (for screenshots u also need slurp grim and wl-clipboard/cliphist)
+
+**A screenshot tool swappy (for screenshots u also need slurp grim and wl-clipboard/cliphist)**
 
 **kitty  (Terminal)** 
 
